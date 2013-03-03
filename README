@@ -1,0 +1,15 @@
+android_toolchain_linaro
+========================
+
+Provides latest linaro binaries for compiling android/android kernels.
+
+Usage
+=====
+
+Checkout the source in the directory:
+
+```
+[source_root]\prebuilts\gcc\linux-x86\arm
+```
+
+
