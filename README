@@ -6,10 +6,10 @@ Provides latest linaro binaries for compiling android/android kernels.
 Usage
 =====
 
-Checkout the source in the directory:
+Checkout the into the directory:
 
-```
-[source_root]\prebuilts\gcc\linux-x86\arm
-```
+    [source_root]\prebuilts\gcc\linux-x86\arm
+
+Build as normal
 
 
